@@ -1,0 +1,6 @@
+# SSH Log Analiz Aracı - Python Gereksinimleri
+# Bu proje sadece Python standart kütüphanelerini kullanır
+# Ek bir paket kurulumu gerekmez
+
+# Python 3.6+ gereklidir
+

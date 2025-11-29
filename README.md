@@ -4,12 +4,12 @@ Linux sistemlerdeki SSH log dosyalarını (`/var/log/auth.log`) analiz ederek ol
 
 ## Özellikler
 
--  SSH log dosyalarını otomatik parse etme
--  IP bazlı brute force saldırı tespiti
--  Zaman bazlı analiz (belirli bir süre içinde çok fazla deneme)
--  Detaylı raporlar (JSON, CSV, HTML formatlarında)
--  Risk seviyesi değerlendirmesi
--  İstatistiksel analiz
+- ✅ SSH log dosyalarını otomatik parse etme
+- ✅ IP bazlı brute force saldırı tespiti
+- ✅ Zaman bazlı analiz (belirli bir süre içinde çok fazla deneme)
+- ✅ Detaylı raporlar (JSON, CSV, HTML formatlarında)
+- ✅ Risk seviyesi değerlendirmesi
+- ✅ İstatistiksel analiz
 
 ## Gereksinimler
 
